@@ -2,7 +2,7 @@
 
 # 👥 **Участники команды**  
 - [Арсений](https://github.com/arseniy-example)  
-- [Денис](https://github.com/denis-example)  
+- [Денис](https://github.com/denisso)  
 - [Александр](https://github.com/alexander-example)
 
 
