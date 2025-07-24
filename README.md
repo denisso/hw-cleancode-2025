@@ -7,8 +7,10 @@
   - `.prettierrc.js`
 - 🚀 **CI/CD сервер**: автоматизированная проверка и доставка кода
   - 📥 Скачивание зависимостей
-  - 📏 Линтинг (ESLint, Stylelint)
-  - 🎨 Автоформатирование кода (Prettier)
+  - 📏 Линтинг (ESLint, Stylelint) подробнее смотри [.eslintrc.js
+  ](./.eslintrc.js)
+  - 🎨 Автоформатирование кода (Prettier) одробнее смотри [.prettierrc.js
+  ](./.prettierrc.js)
   - 🧪 Запуск unit и интеграционных тестов
   - 🔎 Проверка типов (если используется TypeScript)
   - 📝 Валидация commit-сообщений (Conventional Commits)
