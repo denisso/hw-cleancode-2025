@@ -3,7 +3,7 @@
 # 👥 **Участники команды**  
 - [Арсений](https://github.com/arseni2)  
 - [Денис](https://github.com/denisso)  
-- [Александр](https://github.com/alexander-example)
+- [Александр](https://github.com/komanyak)
 
 
 # 📦 Инструменты разработки
